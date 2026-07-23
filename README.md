@@ -171,13 +171,16 @@ Cross-platform quiz application with interactive gameplay.
 
 React Native • Expo • JavaScript
 
-<p align="center">
-<img src="assets/quiz-app.jpg" width="55%">
-</p>
-
-<p align="center">
-<img src="assets/quiz-app-results.jpg" width="55%">
-</p>
+<table>
+<tr>
+<td>
+<img src="assets/quiz-app.jpg" width="100%">
+</td>
+<td>
+<img src="assets/quiz-app-results.jpg" width="100%">
+</td>
+</tr>
+</table>
 
 <p align="center">
 
