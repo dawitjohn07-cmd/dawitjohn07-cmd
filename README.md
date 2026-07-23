@@ -137,7 +137,7 @@ Bus operations and ticket management platform.
 
 **Tech Stack**
 
-PHP • MySQL • Tailwind CSS
+HTML • PHP • MySQL • Tailwind CSS
 
 <p align="center">
 
