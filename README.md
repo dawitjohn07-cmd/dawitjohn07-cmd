@@ -73,7 +73,7 @@ Multi-tenant AI knowledge platform built with vector search and Retrieval-Augmen
 
 **Tech Stack**
 
-FastAPI • React • TypeScript • LlamaIndex • Qdrant
+FastAPI • React • TypeScript • LlamaIndex • Qdrant • Python
 
 <p align="center">
 <img src="assets/rag-assistant.png" width="95%">
