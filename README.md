@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Dawit Yohans
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+Making;AI-Focused+Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Software+That+Solves+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=AI-Focused+Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Software+That+Solves+Real+Problems" />
 
 ### AI • Machine Learning • Backend • Full Stack
 
