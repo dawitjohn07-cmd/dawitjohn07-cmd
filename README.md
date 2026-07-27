@@ -43,7 +43,7 @@ I enjoy building software that solves real-world problems—from AI-powered know
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,php,typescript,javascript,nodejs,express,react,nextjs,mongodb,mysql,supabase&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,php,typescript,javascript,nodejs,express,react,nextjs&perline=10"/>
 
 </p>
 
@@ -62,10 +62,9 @@ I enjoy building software that solves real-world problems—from AI-powered know
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,python,tailwind,fastapi,postgres,vscode,docker&perline=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,python,tailwind,fastapi,postgres,vscode,mongodb,mysql,supabase,docker&perline=10"/>
 
 </p>
-
 ---
 
 # 🚀 Featured Projects
