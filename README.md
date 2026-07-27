@@ -26,7 +26,7 @@ Building intelligent software for real-world problems through Artificial Intelli
 
 I'm an Information Science student passionate about **Artificial Intelligence**, **Machine Learning**, **Backend Engineering**, and **Full-Stack Development**.
 
-I enjoy building software that solves real-world problems—from AI-powered knowledge systems to agricultural marketplaces and transportation platforms. My goal is to become an AI Engineer and build products that create meaningful impact.
+I enjoy building software that solves real-world problems—from AI-powered knowledge systems to agricultural marketplaces and transportation platforms. I'm focused on building practical AI-powered applications while strengthening my backend and full-stack development skills and exploring Machine Learning as a future direction.
 
 ### Current Focus
 
