@@ -37,16 +37,17 @@ I enjoy building software that solves real-world problems—from AI-powered know
 - 🚀 Building production-ready software
 
 ---
-
 # 🛠 Tech Stack
+
+### 💪 Core Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,html,css,nodejs,express,fastapi,react,nextjs,tailwind,react,mongodb,postgres,mysql,supabase,docker,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,php,typescript,javascript,nodejs,express,react,nextjs,mongodb,mysql,supabase&perline=10"/>
 
 </p>
 
-### AI & Machine Learning
+### 🤖 AI & Current Focus
 
 <p align="center">
 
@@ -54,6 +55,14 @@ I enjoy building software that solves real-world problems—from AI-powered know
 <img src="https://img.shields.io/badge/Qdrant-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface"/>
 <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+
+</p>
+
+### 🔧 Technologies I've Worked With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,python,tailwind,fastapi,postgres,vscode,docker&perline=10"/>
 
 </p>
 
