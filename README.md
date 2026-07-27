@@ -31,7 +31,7 @@ I enjoy building software that solves real-world problems—from AI-powered know
 ### Current Focus
 
 - 🤖 Retrieval-Augmented Generation (RAG)
-- 🧠 Machine Learning & LLM Applications
+- 🧠 Machine Learning
 - ⚙️ Backend Architecture & API Design
 - 🌐 Full-Stack Web Applications
 - 🚀 Building production-ready software
