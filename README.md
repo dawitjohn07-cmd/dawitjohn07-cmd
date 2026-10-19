@@ -208,21 +208,7 @@ React Native • Expo • JavaScript
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dawitjohn07-cmd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitjohn07-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawitjohn07-cmd&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
