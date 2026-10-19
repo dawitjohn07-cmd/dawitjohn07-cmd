@@ -37,6 +37,7 @@ I enjoy building software that solves real-world problems—from knowledge-based
 - 🚀 Building practical software projects and expanding my technical skills
 
 ---
+
 # 🛠 Tech Stack
 
 ### 💪 Core Skills
@@ -65,6 +66,7 @@ I enjoy building software that solves real-world problems—from knowledge-based
 <img src="https://skillicons.dev/icons?i=git,github,python,tailwind,fastapi,postgres,vscode,mongodb,mysql,supabase,docker&perline=10"/>
 
 </p>
+
 ---
 
 # 🚀 Featured Projects
@@ -196,7 +198,40 @@ React Native • Expo • JavaScript
 
 </tr>
 
+<tr>
+
+<td colspan="2" valign="top">
+
+## 🦁 ZNHM-AAU Museum Mobile App
+
+A mobile application developed for the Zoological Natural History Museum of Addis Ababa University as part of my internship project. The app brings museum ticketing and visitor services to a mobile experience.
+
+**Tech Stack**
+
+React Native • Expo • TypeScript • Django REST API • PostgreSQL
+
+**Key Features**
+
+- 🎟️ Museum ticket booking and booking history
+- 🔐 Visitor authentication
+- 💳 Chapa payment integration
+- 📱 Digital ticket management
+- 🌐 English and Amharic localization
+
+<p align="center">
+
+<a href="https://github.com/dawitjohn07-cmd/museum-ticketing-mobile">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
+
 ---
 
 ## 💻 More Projects
@@ -205,10 +240,6 @@ React Native • Expo • JavaScript
 |---------|-------------|
 | **Student Management System** | CRUD application with REST APIs, analytics dashboard, and MongoDB backend. |
 | **More AI Projects** | Exploring AI assistants, Machine Learning applications, and intelligent automation as I continue learning and building. |
-
----
-
-
 
 ---
 
