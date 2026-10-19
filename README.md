@@ -1,12 +1,12 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Dawit Yohans
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=AI-Focused+Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Software+That+Solves+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Exploring+Machine+Learning;Building+Software+That+Solves+Real+Problems" />
 
 ### AI • Machine Learning • Backend • Full Stack
 
-Building intelligent software for real-world problems through Artificial Intelligence, scalable backend systems, and modern full-stack development.
+Exploring the world of Artificial Intelligence and Machine Learning while building practical software solutions through backend systems and modern full-stack development.
 
 <p>
 
@@ -26,15 +26,15 @@ Building intelligent software for real-world problems through Artificial Intelli
 
 I'm an Information Science student passionate about **Artificial Intelligence**, **Machine Learning**, **Backend Engineering**, and **Full-Stack Development**.
 
-I enjoy building software that solves real-world problems—from AI-powered knowledge systems to agricultural marketplaces and transportation platforms. I'm focused on building practical AI-powered applications while strengthening my backend and full-stack development skills and exploring Machine Learning as a future direction.
+I enjoy building software that solves real-world problems—from knowledge-based applications to agricultural marketplaces and transportation platforms. I'm currently strengthening my software development skills while exploring AI, learning about Machine Learning, and working toward building intelligent applications that make a real difference.
 
 ### Current Focus
 
-- 🤖 Retrieval-Augmented Generation (RAG)
-- 🧠 Machine Learning
+- 🤖 Exploring Retrieval-Augmented Generation (RAG)
+- 🧠 Learning the fundamentals of Machine Learning
 - ⚙️ Backend Architecture & API Design
 - 🌐 Full-Stack Web Applications
-- 🚀 Building production-ready software
+- 🚀 Building practical software projects and expanding my technical skills
 
 ---
 # 🛠 Tech Stack
@@ -77,7 +77,7 @@ I enjoy building software that solves real-world problems—from AI-powered know
 
 ## 🤖 RAG Assistant
 
-Multi-tenant AI knowledge platform built with vector search and Retrieval-Augmented Generation.
+An AI-focused knowledge platform exploring vector search and Retrieval-Augmented Generation to make information easier to access.
 
 **Tech Stack**
 
@@ -204,7 +204,7 @@ React Native • Expo • JavaScript
 | Project | Description |
 |---------|-------------|
 | **Student Management System** | CRUD application with REST APIs, analytics dashboard, and MongoDB backend. |
-| **More AI Projects** | Currently building AI assistants, ML applications, and intelligent automation systems. |
+| **More AI Projects** | Exploring AI assistants, Machine Learning applications, and intelligent automation as I continue learning and building. |
 
 ---
 
@@ -228,11 +228,11 @@ React Native • Expo • JavaScript
 
 # 🎯 Goals
 
-- 🚀 Become an AI Engineer
-- 🧠 Master Machine Learning & Deep Learning
+- 🚀 Grow into an AI Engineer
+- 🧠 Develop a strong foundation in Machine Learning & Deep Learning
 - ⚙️ Build scalable backend systems
-- 🌍 Develop AI products that solve real-world problems
-- 💡 Launch impactful technology startups
+- 🌍 Learn to develop AI-powered products that solve real-world problems
+- 💡 Build impactful technology products and explore entrepreneurial opportunities
 
 ---
 
